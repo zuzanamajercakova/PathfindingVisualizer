@@ -1,3 +1,12 @@
+This project is created based on a tutorial from Software engineer Clement Mihailescu's
+I followed the tutorial from his youtube guide. The PathfindingVisualizer component is in App.js.
+
+This application supports the following algorithms:
+
+Dijkstra's Algorithm (weighted): the father of pathfinding algorithms; guarantees the shortest path
+
+If you want to create your own Visualizer too, you can follow Clement's Guide on his Youtube channel.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
