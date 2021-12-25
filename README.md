@@ -1,5 +1,4 @@
-This project is created based on a tutorial from Software engineer Clement Mihailescu's
-I followed the tutorial from his youtube guide. The PathfindingVisualizer component is in App.js.
+ The PathfindingVisualizer component is in App.js.
 
 This application supports the following algorithms:
 
